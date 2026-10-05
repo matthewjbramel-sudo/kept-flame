@@ -48,12 +48,12 @@ Year One runway. One essay per week, no blank-page week ever.
 39. What Remains — the eulogy exercise, done honestly.
 
 ## Q4 — Integration (weeks 40–52)
-40. The Quiet Hours I — attention as prayer; the Christian contemplative thread.
-41. The Quiet Hours II — mindfulness without the merchandise; the Buddhist thread.
-42. The Quiet Hours III — wu wei in daily life; the Taoist thread.
-43. The Quiet Hours IV — rest as discipline, not reward.
-44. The Quiet Hours V — silence: what it teaches that noise can't.
-45. The Quiet Hours VI — the examined year; a reader's annual review.
+40. ✅ The Quiet Hours I — attention as prayer; the Christian contemplative thread.
+41. ✅ The Quiet Hours II — mindfulness without the merchandise; the Buddhist thread.
+42. ✅ The Quiet Hours III — wu wei in daily life; the Taoist thread.
+43. ✅ The Quiet Hours IV — rest as discipline, not reward.
+44. ✅ The Quiet Hours V — silence: what it teaches that noise can't.
+45. ✅ The Quiet Hours VI — the examined year; a reader's annual review.
 46. Money and Meaning — what the $100k campaign taught about enough.
 47. The Compounding Life — everything in this year, applied at once.
 48. Teaching What You Learned — why the best students become teachers.
@@ -63,7 +63,7 @@ Year One runway. One essay per week, no blank-page week ever.
 52. Year One, Bound — the complete collection; what the flame kept.
 
 ## Status
-- Written: 20 / 52
+- Written: 26 / 52
 - Banked buffer: ~5 months at 1/week
-- Books compiled: Book One (essays 1–12), Book Two (essays 13–20)
-- Remaining: 32 essays — the runway through year's end.
+- Books compiled: Book One (essays 1–12), Book Two (essays 13–20), Book Three (essays 40–45)
+- Remaining: 26 essays — the runway through year's end.
