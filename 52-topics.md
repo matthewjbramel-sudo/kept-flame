@@ -25,12 +25,12 @@ Year One runway. One essay per week, no blank-page week ever.
 18. ✅ The Notebook — writing as thinking; the commonplace method.
 19. ✅ The Plateau — what the flat part is for and how to break through.
 20. ✅ The Self-Taught Mind — the complete method on one page.
-21. The Craft of Attention — deep work in a distracted world; the monk and the maker.
-22. The Rule of the Pen — why handwriting beats typing for thinking.
-23. Slow Is Smooth — the military maxim applied to skill acquisition.
-24. The Beginner Again — deliberate novicehood as a growth discipline.
-25. Feedback Loops — how to get signal on your own performance without a coach.
-26. The Ten Thousand Hours, Honestly — what Ericsson actually found, minus the myth.
+21. ✅ The Craft of Attention — deep work in a distracted world; the monk and the maker.
+22. ✅ The Rule of the Pen — why handwriting beats typing for thinking.
+23. ✅ Slow Is Smooth — the military maxim applied to skill acquisition.
+24. ✅ The Beginner Again — deliberate novicehood as a growth discipline.
+25. ✅ Feedback Loops — how to get signal on your own performance without a coach.
+26. ✅ The Ten Thousand Hours, Honestly — what Ericsson actually found, minus the myth.
 
 ## Q3 — Becoming (weeks 27–39)
 27. The Identity Draft — you are not finished; revision as a way of life.
@@ -63,7 +63,7 @@ Year One runway. One essay per week, no blank-page week ever.
 52. Year One, Bound — the complete collection; what the flame kept.
 
 ## Status
-- Written: 26 / 52
+- Written: 32 / 52
 - Banked buffer: ~5 months at 1/week
-- Books compiled: Book One (essays 1–12), Book Two (essays 13–20), Book Three (essays 40–45)
-- Remaining: 26 essays — the runway through year's end.
+- Books compiled: Book One (1–12), Book Two (13–20), Book Three (40–45), Book Four (21–26)
+- Remaining: 20 essays — the runway through year's end.
