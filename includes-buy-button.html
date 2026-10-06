@@ -1,3 +1,13 @@
-<!-- BUY BUTTON TEMPLATE — paste the Stripe Payment Link URL into href, then include on books.html -->
-<p><a href="PASTE_STRIPE_LINK_HERE" class="buy-button"><b>Buy the ebook</b></a></p>
-<style>.buy-button{display:inline-block;padding:.7rem 1.4rem;background:#b3541e;color:#fff!important;text-decoration:none;border-radius:6px;font-size:1.05rem;}.buy-button:hover{background:#9a4718;}</style>
+<!-- BUY BUTTONS — staged, NOT live. Paste the two Stripe Payment Link URLs into the hrefs,
+     then include on books.html only when Matthew calls launch day. Until then this file
+     stays unreferenced. Prices: $4.99 ebook / $14.99 paperback. -->
+<p>
+  <a href="PASTE_STRIPE_LINK_EBOOK_HERE" class="buy-button"><b>Buy the ebook — $4.99</b></a>
+  <a href="PASTE_STRIPE_LINK_PAPERBACK_HERE" class="buy-button paperback"><b>Buy the paperback — $14.99</b></a>
+</p>
+<style>
+.buy-button{display:inline-block;padding:.7rem 1.4rem;background:#b3541e;color:#fff!important;text-decoration:none;border-radius:6px;font-size:1.05rem;margin:.3rem .6rem .3rem 0;}
+.buy-button:hover{background:#9a4718;}
+.buy-button.paperback{background:#3e5c50;}
+.buy-button.paperback:hover{background:#314a40;}
+</style>
